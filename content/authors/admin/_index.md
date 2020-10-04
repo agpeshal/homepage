@@ -15,7 +15,7 @@ role: Graduate Student
 # Organizations/Affiliations
 organizations:
 - name: ETH Zurich
-  url: "htttp://www.ethz.ch/en.html"
+  url: "https://www.ethz.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests robust machine learning and computer vision.
@@ -70,6 +70,6 @@ highlight_name: false
 # - Visitors
 ---
 
-I am Master's student, in [Seminar for Statistics](https://math.ethz.ch/sfs), at [ETH Zurich](http://www.ethz.ch/en.html), majoring in Statistics. My interests are Computer Vision, Reliable Artificial Intelligence and Deep Learning.
+I am Master's student, in [Seminar for Statistics](https://math.ethz.ch/sfs), at [ETH Zurich](https://www.ethz.ch/en.html), majoring in Statistics. My interests are Computer Vision, Reliable Artificial Intelligence and Deep Learning.
 
 I am currently being advised by [Prof. Luc van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html) on my thesis project. Previously, I earned BS-MS (dual degree) in Mathematics and Scientific Computing at [IIT Kanpur](www.iitk.ac.in), where I was advised by [Prof. Debasis Kundu](https://scholar.google.co.in/citations?user=yq8z1rIAAAAJ&hl=en&oi=ao) on Bayesian modeling. During my studies, I have worked on Natural Language Processing, Boosting Machines and Topic Modeling.
