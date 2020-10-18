@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header: SnapBoost:A Heterogeneous Boosting Machine
-  caption: ""
+  caption: "SnapBoost:A Heterogeneous Boosting Machine"
   image: ""
 ---
